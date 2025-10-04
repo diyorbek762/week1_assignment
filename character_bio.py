@@ -11,7 +11,7 @@ print("\nName:    " + user_character_name)
 print("Class:   " + user_character_class)
 print("Realm:   " + user_home_realm)
 
-print("\nTitle: " + user_character_name + "the" + user_character_class + "of" + user_home_realm)
+print("\nTitle: " + user_character_name + " the " + user_character_class + " of " + user_home_realm)
 
 print("\n----------------------------------------")
 print("Weapon of Choice:   " + user_chosen_weapon)
