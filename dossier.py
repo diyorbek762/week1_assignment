@@ -7,7 +7,7 @@ user_mission_location = input("What is the mission location? ")
 
 
 
-print("****************************************")
+print("\n****************************************")
 print("     TOP SECRET - AGENT DOSSIER         ")
 print("****************************************\n")
 
@@ -18,8 +18,9 @@ print("Gadget:    " + user_gadget)
 
 print("----------------------------------------")
 print("\nMISSION DETAILS:   ")
-print("Operation ID:    " + user_operation_number)
+print("Operation ID:    OP—" + user_operation_number + "—" + user_codename)
 print("Location:    " + user_mission_location )
 print("---------------------------------------- \n")
 print("       ***For your eyes only***         \n")
 print("****************************************\n")
+ 
