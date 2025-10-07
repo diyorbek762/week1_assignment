@@ -12,14 +12,14 @@ print("     TOP SECRET - AGENT DOSSIER         ")
 print("****************************************\n")
 
 
-print("Codename:    " + user_codename )
+print("Codename:     " + user_codename )
 print("Real Name:    " + user_real_name )
-print("Gadget:    " + user_gadget)
+print("Gadget:       " + user_gadget)
 
 print("\n----------------------------------------")
 print("\nMISSION DETAILS:   ")
 print("Operation ID:    OP-" + user_operation_number + "-" + user_codename)
-print("Location:    " + user_mission_location )
+print("Location:        " + user_mission_location )
 print("\n----------------------------------------")
 print("       ***FOR YOUR EYES ONLY***         ")
 print("****************************************\n")
